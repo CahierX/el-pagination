@@ -1,0 +1,13 @@
+{
+  "name": "el-pagination",
+  "version": "1.0.4",
+  "description": "pagination",
+  "main": "Pagination.vue",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cahier",
+  "license": "ISC"
+}
