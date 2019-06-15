@@ -129,7 +129,9 @@ export default {
 }
 </script>
 ```
-**if your currentPage is 2 and your pageCount is 20 pagesSize is 10, you will see this picture**![在这里插入图片描述](https://img-blog.csdnimg.cn/20190615140832776.png)
+**if your currentPage is 2 and your pageCount is 20 pagesSize is 10, you will see this picture**
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20190615140832776.png)
+
 **this dots is quick  skip many page, this skip number depending on your pageCount value, for example, If your pageCount is 20, the skip number is  pageCount/2 = 2**
 
 **if you currentPage is 8, you will see this picture**
