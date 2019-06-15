@@ -135,5 +135,7 @@ export default {
 **this dots is quick  skip many page, this skip number depending on your pageCount value, for example, If your pageCount is 20, the skip number is  pageCount/2 = 2**
 
 **if you currentPage is 8, you will see this picture**
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190615141433671.png)
+
 **look the left dot, this is same as the right dot, the difference is skip left page**
