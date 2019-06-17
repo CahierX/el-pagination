@@ -141,6 +141,7 @@ export default {
         for (let i = 1; i <= this.pageSize; i++) {
           this.forItem.push(i)
         }
+        this.rightDot = true
       } else {
         for (let i = 1; i <= this.pageCount; i++) {
           this.forItem.push(i)
@@ -179,6 +180,9 @@ export default {
 </script>
 
 <style>
+  li{
+    list-style:none
+  }
   .active {
     pointer-events: none;
     filter: alpha(opacity=50);
